@@ -5,9 +5,9 @@
 ## Build Status
 
 
-6.x | 4.3.4 | 3.3.5
-:------------: | :------------: | :------------:
-[![4.3.4 Build Status](https://travis-ci.org/Aokromes/TrinityCore.svg?branch=4.3.4)](https://travis-ci.org/Aokromes/TrinityCore) | 
+| 4.3.4 |
+:------------: 
+[![4.3.4 Build Status](https://travis-ci.org/Aokromes/TrinityCore.svg?branch=4.3.4)](https://travis-ci.org/Aokromes/TrinityCore) 
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/435/badge.svg)](https://scan.coverity.com/projects/435) | [![Coverity Scan Build Status](https://scan.coverity.com/projects/7697/badge.svg)](https://scan.coverity.com/projects/7697) |  [![Coverity Scan Build Status](https://scan.coverity.com/projects/4656/badge.svg)](https://scan.coverity.com/projects/4656)
 
 ## Introduction
